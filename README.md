@@ -13,16 +13,16 @@
 |  1 | [中信金控_台灣人壽保險股份有限公司](https://www.104.com.tw/company/1mtr7vs?jobsource=2018indexpoc)            | [資訊_資深Python工程師（Senior Python Programmer）](https://www.104.com.tw/job/77drj?jobsource=2018indexpoc) | 5/01          |
 |  2 | [中國醫藥大學附設醫院](https://www.104.com.tw/company/o5x51w0?jobsource=2018indexpoc)                   | [1JZ0-人工智慧醫學診斷中心 系統開發工程師(後端)](https://www.104.com.tw/job/798gy?jobsource=2018indexpoc)              | 4/30          |
 |  3 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=2018indexpoc)       | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=2018indexpoc)                                | 4/30          |
-|  4 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_c_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_c_relevance)                          | 4/30          |
-|  5 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance)             | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)                       | 4/27          |
-|  6 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance)          | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                | 4/29          |
+|  4 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_a_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_a_relevance)                          | 4/30          |
+|  5 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance)             | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)                       | 4/27          |
+|  6 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)          | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                | 4/29          |
 |  7 | [杰倫智能科技股份有限公司](https://www.104.com.tw/company/1a2x6bkirw?jobsource=2018indexpoc)              | [資深網頁前端開發工程師(AI平台)](https://www.104.com.tw/job/6hxnt?jobsource=2018indexpoc)                        | 4/30          |
 |  8 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)                  | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc)        | 5/01          |
 |  9 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)                  | [[ CST-2 ] Full Stack Engineer](https://www.104.com.tw/job/76q8f?jobsource=2018indexpoc)            | 5/01          |
 | 10 | [童綜合醫療社團法人童綜合醫院](https://www.104.com.tw/company/kw8xsls?jobsource=2018indexpoc)               | [資訊部Python 工程師](https://www.104.com.tw/job/6upji?jobsource=2018indexpoc)                            | 4/30          |
 | 11 | [童綜合醫療社團法人童綜合醫院](https://www.104.com.tw/company/kw8xsls?jobsource=2018indexpoc)               | [資訊部網頁前端工程師](https://www.104.com.tw/job/6sjx5?jobsource=2018indexpoc)                               | 4/30          |
-| 12 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)             | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)            | 4/29          |
-| 13 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)             | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)            | 4/29          |
+| 12 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)             | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)            | 4/29          |
+| 13 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)             | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)            | 4/29          |
 | 14 | [紐奧谷科技股份有限公司](https://www.104.com.tw/company/1a2x6blk60?jobsource=2018indexpoc)               | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/78o4v?jobsource=2018indexpoc)        | 4/30          |
 | 15 | [金正禾數位有限公司](https://www.104.com.tw/company/1a2x6bl4su?jobsource=2018indexpoc)                 | [Backend Engineer 後端工程師](https://www.104.com.tw/job/720ep?jobsource=2018indexpoc)                   | 4/30          |
 
@@ -33,7 +33,7 @@
 |---:|:---------------------------------------------------------|:---------------------------------------------------|:--------------|
 |  1 | [(派遣)創為人力資源有限公司](https://www.1111.com.tw/corp/72531811/) | [Python工程師](https://www.1111.com.tw/job/91178382/) | 2021-04-30    |
 |  2 | [億力資訊股份有限公司](https://www.1111.com.tw/corp/54937860/)     | [python工程師](https://www.1111.com.tw/job/97374762/) | 2021-04-23    |
-|  3 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-04-27    |
+|  3 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-05-02    |
 
 ### Platform - CakeResume
 

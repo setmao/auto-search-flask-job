@@ -10,8 +10,10 @@
 
 |    | company                                                                              | job_title                                                                                  | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|
-|  1 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=jolist_a_relevance) | [RD Team Lead](https://www.104.com.tw/job/771a6?jobsource=jolist_a_relevance)              | 6/15          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance) | 6/17          |
+|  1 | [同步科技股份有限公司](https://www.104.com.tw/company/1a2x6ble88?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/76q8x?jobsource=jolist_c_relevance)                     | 6/17          |
+|  2 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=jolist_c_relevance) | [RD Team Lead](https://www.104.com.tw/job/771a6?jobsource=jolist_c_relevance)              | 6/15          |
+|  3 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_c_relevance)    | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_c_relevance)           | 6/15          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance) | 6/17          |
 
 ### Platform - 1111
 

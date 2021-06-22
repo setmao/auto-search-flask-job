@@ -8,9 +8,9 @@
 ### Platform - 104
 
 
-|    | company                                                                        | job_title                                                                            | update_time   |
-|---:|:-------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=2018indexpoc) | 6/17          |
+|    | company                                                                              | job_title                                                                                  | update_time   |
+|---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|
+|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance) | 6/17          |
 
 ### Platform - 1111
 

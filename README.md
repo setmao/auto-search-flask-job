@@ -8,11 +8,13 @@
 ### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                 | update_time   |
-|---:|:----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
-|  1 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc)  | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/05          |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)  | 6/28          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)  | 6/28          |
+|    | company                                                                             | job_title                                                                                 | update_time   |
+|---:|:------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
+|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_b_relevance) | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_b_relevance)                  | 6/29          |
+|  2 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc)    | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/05          |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)   | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)  | 6/28          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)   | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)  | 6/28          |
+|  5 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_b_relevance) | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_b_relevance)                  | 6/30          |
 
 ### Platform - 1111
 

@@ -8,15 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                          | job_title                                                                                   | update_time   |
-|---:|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
-|  1 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=2018indexpoc)      | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=2018indexpoc)                  | 7/06          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)   | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=2018indexpoc)        | 7/01          |
-|  3 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)   | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)          | 7/07          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)          | 6/28          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=2018indexpoc)          | 6/28          |
-|  6 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=2018indexpoc)    | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=2018indexpoc)                          | 6/30          |
-|  7 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=2018indexpoc) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=2018indexpoc) | 6/04          |
+|    | company                                                                             | job_title                                                                                | update_time   |
+|---:|:------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_b_relevance) | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_b_relevance)                 | 7/06          |
+|  2 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_b_relevance)   | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_b_relevance)         | 7/06          |
+|  3 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)      | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)       | 7/07          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)   | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 6/28          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)   | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance) | 6/28          |
+|  6 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_b_relevance) | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_b_relevance)                 | 6/30          |
 
 ### Platform - 1111
 

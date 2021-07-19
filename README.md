@@ -8,15 +8,12 @@
 ### Platform - 104
 
 
-|    | company                                                                                       | job_title                                                                                 | update_time   |
-|---:|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
-|  1 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc)              | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)               | 7/19          |
-|  2 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)               | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                    | 7/19          |
-|  3 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)           | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_d_relevance)                  | 7/14          |
-|  4 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)           | [網頁開發工程師](https://www.104.com.tw/job/78do7?jobsource=jolist_d_relevance)                  | 7/14          |
-|  5 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_d_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_d_relevance)                | 4/30          |
-|  6 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc)              | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/19          |
-|  7 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)                   | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)       | 7/19          |
+|    | company                                                                          | job_title                                                                                 | update_time   |
+|---:|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
+|  1 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc) | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)               | 7/19          |
+|  2 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)  | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                    | 7/19          |
+|  3 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc) | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/19          |
+|  4 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)      | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)       | 7/19          |
 
 ### Platform - 1111
 

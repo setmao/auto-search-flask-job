@@ -8,12 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                          | job_title                                                                                 | update_time   |
-|---:|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
-|  1 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc) | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)               | 7/19          |
-|  2 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)  | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                    | 7/19          |
-|  3 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc) | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/19          |
-|  4 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)      | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)       | 7/19          |
+|    | company                                                                                                                  | job_title                                                                                                                         | update_time   |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)](https://www.104.com.tw/company/10ww9gpk?jobsource=2018indexpoc) | [【2021應屆畢業生報名專區】Data Engineer, Smart MFG &amp; AI (Taichung or Taoyuan)](https://www.104.com.tw/job/7ag8f?jobsource=2018indexpoc) | 7/20          |
+|  2 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Machine Learning Engineer 機器學習工程師 ](https://www.104.com.tw/job/6c61u?jobsource=2018indexpoc)                                     | 7/20          |
+|  3 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Backend Engineer 後端工程師](https://www.104.com.tw/job/6xipk?jobsource=2018indexpoc)                                                 | 7/20          |
 
 ### Platform - 1111
 
@@ -29,12 +28,12 @@
 |    | company                                                                               | job_title                                                                                                                           | update_time          |
 |---:|:--------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
 |  1 | [Cathay Financial Holdings 國泰金控](https://www.cakeresume.com/companies/cathayholdings) | [軟體開發工程師 Python Software Engineer(數數發中心, DDT)](https://www.cakeresume.com/companies/cathayholdings/jobs/f5c69a)                     | Updated 3 Months ago |
-|  2 | [Proto Research Inc](https://www.cakeresume.com/companies/proto-cx)                   | [Backend Developer (Python)](https://www.cakeresume.com/companies/proto-cx/jobs/backend-developer-python)                           | Updated 15 days ago  |
+|  2 | [Proto Research Inc](https://www.cakeresume.com/companies/proto-cx)                   | [Backend Developer (Python)](https://www.cakeresume.com/companies/proto-cx/jobs/backend-developer-python)                           | Updated 16 days ago  |
 |  3 | [玉山商業銀行股份有限公司](https://www.cakeresume.com/companies/esunbank)                         | [後端工程師 Back-end Enginee](https://www.cakeresume.com/companies/esunbank/jobs/back-end-enginee)                                       | Updated 3 Months ago |
 |  4 | [瞬聯科技股份有限公司](https://www.cakeresume.com/companies/cienet)                             | [Cloud Service 軟體工程師](https://www.cakeresume.com/companies/cienet/jobs/cloud-service-software-engineer)                             | Updated 3 Months ago |
 |  5 | [紅門互動股份有限公司](https://www.cakeresume.com/companies/eagleeye-5332f1)                    | [Python Flask網站開發工程師(台北)](https://www.cakeresume.com/companies/eagleeye-5332f1/jobs/python-flask-web-development-engineer-taipei)   | Updated 3 Months ago |
 |  6 | [紅門互動股份有限公司](https://www.cakeresume.com/companies/eagleeye-5332f1)                    | [Python Flask網站研發工程師(台中)](https://www.cakeresume.com/companies/eagleeye-5332f1/jobs/python-flask-website-r-amp-d-engineer-taichung) | Updated 3 Months ago |
-|  7 | [菜蟲農食股份有限公司](https://www.cakeresume.com/companies/tsaitung)                           | [Backend Developer (Junior & Senior)](https://www.cakeresume.com/companies/tsaitung/jobs/backend-developer-junior-senior)           | Updated 12 days ago  |
+|  7 | [菜蟲農食股份有限公司](https://www.cakeresume.com/companies/tsaitung)                           | [Backend Developer (Junior & Senior)](https://www.cakeresume.com/companies/tsaitung/jobs/backend-developer-junior-senior)           | Updated 13 days ago  |
 
 
 

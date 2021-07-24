@@ -16,7 +16,7 @@
 |  4 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_c_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_c_relevance)                              | 4/30          |
 |  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)             | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                | 7/16          |
 |  6 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=2018indexpoc)                 | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=2018indexpoc)                                      | 7/23          |
-|  7 | [貸先生資訊平台有限公司](https://www.104.com.tw/company/1a2x6blnk6?jobsource=2018indexpoc)               | [網站後端開發工程師 (可遠距工作/每週進公司開會/全職/限台中) [NO.D4]](https://www.104.com.tw/job/7bfnu?jobsource=2018indexpoc)     | 7/24          |
+|  7 | [貸先生資訊平台有限公司](https://www.104.com.tw/company/1a2x6blnk6?jobsource=2018indexpoc)               | [網站後端API開發工程師 (可遠距工作/每週進公司開會/全職/限台中) [NO.D4]](https://www.104.com.tw/job/7bfnu?jobsource=2018indexpoc)  | 7/24          |
 |  8 | [貸先生資訊平台有限公司](https://www.104.com.tw/company/1a2x6blnk6?jobsource=2018indexpoc)               | [Python 開發工程師 (可遠距工作/每週進公司開會/全職/限台中) [NO.D5]](https://www.104.com.tw/job/7bfnv?jobsource=2018indexpoc)  | 7/24          |
 
 ### Platform - 1111

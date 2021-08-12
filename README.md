@@ -8,10 +8,9 @@
 ### Platform - 104
 
 
-|    | company                                                                                | job_title                                                                                         | update_time   |
-|---:|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc)           | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)                              | 8/12          |
-|  2 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_b_relevance) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_b_relevance) | 7/28          |
+|    | company                                                                      | job_title                                                            | update_time   |
+|---:|:-----------------------------------------------------------------------------|:---------------------------------------------------------------------|:--------------|
+|  1 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc) | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc) | 8/12          |
 
 ### Platform - 1111
 

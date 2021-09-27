@@ -10,13 +10,18 @@
 
 |    | company                                                                              | job_title                                                                                               | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_d_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_d_relevance)              | 9/22          |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_d_relevance)                | 9/22          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_d_relevance)                | 9/22          |
-|  4 | [聚典資訊股份有限公司](https://www.104.com.tw/company/1a2x6bl0ew?jobsource=jolist_b_date)      | [軟體工程師 Software engineer/full-stack Engineer](https://www.104.com.tw/job/78evf?jobsource=jolist_b_date) | 9/28          |
-|  5 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_b_date)          | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_b_date)                  | 9/28          |
-|  6 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_relevance)     | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_relevance)             | 9/28          |
-|  7 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=jolist_b_date)      | [Backend Engineer (PHP/Python)](https://www.104.com.tw/job/716px?jobsource=jolist_b_date)               | 9/27          |
+|  1 | [亞洲指標數位行銷顧問股份有限公司](https://www.104.com.tw/company/d8qa7g0?jobsource=jolist_d_date)   | [[RD] 後端工程師(backend engineer)](https://www.104.com.tw/job/65dkg?jobsource=jolist_d_date)                | 9/27          |
+|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_date)       | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_d_date)                                     | 9/27          |
+|  3 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_date)       | [網頁開發工程師](https://www.104.com.tw/job/78do7?jobsource=jolist_d_date)                                     | 9/27          |
+|  4 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_date)       | [系統工程師](https://www.104.com.tw/job/71erc?jobsource=jolist_d_date)                                       | 9/27          |
+|  5 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance)              | 9/22          |
+|  6 | [昱峰智能大數據科技股份有限公司](https://www.104.com.tw/company/1a2x6bkbn6?jobsource=jolist_d_date) | [RD[資深]後端工程師](https://www.104.com.tw/job/5x0lo?jobsource=jolist_d_date)                                 | 9/27          |
+|  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                | 9/22          |
+|  8 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                | 9/22          |
+|  9 | [聚典資訊股份有限公司](https://www.104.com.tw/company/1a2x6bl0ew?jobsource=jolist_d_date)      | [軟體工程師 Software engineer/full-stack Engineer](https://www.104.com.tw/job/78evf?jobsource=jolist_d_date) | 9/28          |
+| 10 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=jolist_d_date)         | [Python工程師](https://www.104.com.tw/job/6nml7?jobsource=jolist_d_date)                                   | 9/27          |
+| 11 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_c_relevance)     | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_c_relevance)             | 9/28          |
+| 12 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_date)          | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_date)                  | 9/28          |
 
 ### Platform - 1111
 

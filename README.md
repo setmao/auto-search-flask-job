@@ -8,19 +8,16 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                                                    | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=jolist_d_date)       | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=jolist_d_date)                     | 9/28          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_b_relevance)                                   | 9/22          |
-|  3 | [普匯金融科技股份有限公司](https://www.104.com.tw/company/1a2x6bkhzg?jobsource=jolist_d_date)    | [python工程師](https://www.104.com.tw/job/7ark5?jobsource=jolist_d_date)                                                        | 9/28          |
-|  4 | [沛思坦網路股份有限公司](https://www.104.com.tw/company/1a2x6blk6g?jobsource=jolist_d_date)     | [ 【台北內湖】資深Python後端工程師 Python Back-end Engineer (Senior) (月薪7萬-9萬)](https://www.104.com.tw/job/78ogt?jobsource=jolist_d_date) | 9/28          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)                                     | 9/22          |
-|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)                                     | 9/22          |
-|  7 | [紫式大數據決策股份有限公司](https://www.104.com.tw/company/1a2x6bkygn?jobsource=jolist_d_date)   | [後端工程師--機器學習系統整合開發](https://www.104.com.tw/job/6p2d5?jobsource=jolist_d_date)                                                | 9/28          |
-|  8 | [翔隆航太有限公司](https://www.104.com.tw/company/1a2x6bli84?jobsource=jolist_d_date)        | [全端軟體工程師 / Front-End / Back-End Engineer / Full Stack](https://www.104.com.tw/job/77kox?jobsource=jolist_d_date)             | 9/28          |
-|  9 | [聚典資訊股份有限公司](https://www.104.com.tw/company/1a2x6bl0ew?jobsource=jolist_d_date)      | [軟體工程師 Software engineer/full-stack Engineer](https://www.104.com.tw/job/78evf?jobsource=jolist_d_date)                      | 9/28          |
-| 10 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_b_relevance)     | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_b_relevance)                                  | 9/28          |
-| 11 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_date)          | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_date)                                       | 9/28          |
+|    | company                                                                                            | job_title                                                                                   | update_time   |
+|---:|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
+|  1 | [xarefit享健身_香港商宇晨品牌顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blkn9?jobsource=jolist_c_date) | [【擴大徵才中】後端工程師 Backend Engineer](https://www.104.com.tw/job/791ud?jobsource=jolist_c_date)   | 9/29          |
+|  2 | [同步科技股份有限公司](https://www.104.com.tw/company/1a2x6ble88?jobsource=jolist_c_date)                    | [後端工程師](https://www.104.com.tw/job/76q8x?jobsource=jolist_c_date)                           | 9/29          |
+|  3 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=jolist_c_date)                   | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=jolist_c_date)                     | 9/29          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_date)                       | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_date)         | 9/29          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_date)                       | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_date)         | 9/29          |
+|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)    | 9/29          |
+|  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                  | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)    | 9/29          |
+|  8 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_c_relevance)                   | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_c_relevance) | 9/28          |
 
 ### Platform - 1111
 
@@ -34,7 +31,7 @@
 |  5 | [中租迪和股份有限公司](https://www.1111.com.tw/corp/2850037/)                        | [【中租超利士】中台架構師](https://www.1111.com.tw/job/97507405/)                                                     | 2021-09-27    |
 |  6 | [台灣美光晶圓科技股份有限公司](https://www.1111.com.tw/corp/9622349/)                    | [【桃園/台中廠擴大招募】SR Data Engineer, Smart MFG & AI](https://www.1111.com.tw/job/97430508/)                     | 2021-09-11    |
 |  7 | [台灣美光晶圓科技股份有限公司](https://www.1111.com.tw/corp/9622349/)                    | [【2021畢業生報名專區】Data Engineer, Smart MFG & AI (Taichung or Taoyuan)](https://www.1111.com.tw/job/97430572/) | 2021-09-11    |
-|  8 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)                       | [後端工程師](https://www.1111.com.tw/job/85012186/)                                                            | 2021-09-24    |
+|  8 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)                       | [後端工程師](https://www.1111.com.tw/job/85012186/)                                                            | 2021-09-29    |
 
 ### Platform - CakeResume
 
@@ -43,13 +40,13 @@
 |---:|:--------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
 |  1 | [A10 Networks 睿科網路科技有限公司](https://www.cakeresume.com/companies/a10-networks)          | [Full-Stack Web Developer](https://www.cakeresume.com/companies/a10-networks/jobs/full-stack-web-developer-1992f2)                  | Updated a month ago  |
 |  2 | [Cathay Financial Holdings 國泰金控](https://www.cakeresume.com/companies/cathayholdings) | [軟體開發工程師 Python Software Engineer(數數發中心, DDT)](https://www.cakeresume.com/companies/cathayholdings/jobs/f5c69a)                     | Updated a month ago  |
-|  3 | [Dr. Right 精準關懷 - 搶鏡創意股份有限公司](https://www.cakeresume.com/companies/dr-right)          | [後端工程師 Backend Engineer](https://www.cakeresume.com/companies/dr-right/jobs/back-end-engineer-9098f2)                               | Updated 19 days ago  |
+|  3 | [Dr. Right 精準關懷 - 搶鏡創意股份有限公司](https://www.cakeresume.com/companies/dr-right)          | [後端工程師 Backend Engineer](https://www.cakeresume.com/companies/dr-right/jobs/back-end-engineer-9098f2)                               | Updated 20 days ago  |
 |  4 | [Proto Research Inc](https://www.cakeresume.com/companies/proto-cx)                   | [Backend Developer (Python)](https://www.cakeresume.com/companies/proto-cx/jobs/backend-developer-python)                           | Updated 2 months ago |
 |  5 | [玉山商業銀行股份有限公司](https://www.cakeresume.com/companies/esunbank)                         | [後端工程師 Back-end Enginee](https://www.cakeresume.com/companies/esunbank/jobs/back-end-enginee)                                       | Updated 2 months ago |
 |  6 | [瞬聯科技股份有限公司](https://www.cakeresume.com/companies/cienet)                             | [Cloud Service 軟體工程師](https://www.cakeresume.com/companies/cienet/jobs/cloud-service-software-engineer)                             | Updated 3 Months ago |
 |  7 | [紅門互動股份有限公司](https://www.cakeresume.com/companies/eagleeye-5332f1)                    | [Python Flask網站開發工程師(台北)](https://www.cakeresume.com/companies/eagleeye-5332f1/jobs/python-flask-web-development-engineer-taipei)   | Updated 3 Months ago |
 |  8 | [紅門互動股份有限公司](https://www.cakeresume.com/companies/eagleeye-5332f1)                    | [Python Flask網站研發工程師(台中)](https://www.cakeresume.com/companies/eagleeye-5332f1/jobs/python-flask-website-r-amp-d-engineer-taichung) | Updated 3 Months ago |
-|  9 | [菜蟲農食股份有限公司](https://www.cakeresume.com/companies/tsaitung)                           | [Backend Developer (Junior & Senior)](https://www.cakeresume.com/companies/tsaitung/jobs/backend-developer-junior-senior)           | Updated 22 days ago  |
+|  9 | [菜蟲農食股份有限公司](https://www.cakeresume.com/companies/tsaitung)                           | [Backend Developer (Junior & Senior)](https://www.cakeresume.com/companies/tsaitung/jobs/backend-developer-junior-senior)           | Updated 23 days ago  |
 
 
 

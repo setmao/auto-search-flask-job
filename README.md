@@ -8,12 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                           | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance)          | 9/29          |
-|  2 | [溢騰科技有限公司](https://www.104.com.tw/company/1a2x6biw9n?jobsource=jolist_b_date)        | [Engineer / Senior Engineer (Cloud team)](https://www.104.com.tw/job/6zor6?jobsource=jolist_b_date) | 9/30          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)            | 9/29          |
-|  4 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_a_relevance)     | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_a_relevance)         | 9/28          |
+|    | company                                                                               | job_title                                                                                   | update_time   |
+|---:|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
+|  1 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=jolist_a_date)         | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=jolist_a_date)                       | 9/30          |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)     | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_d_relevance)    | 9/29          |
+|  3 | [群望科技股份有限公司](https://www.104.com.tw/company/1a2x6bkv0j?jobsource=jolist_a_date)       | [軟體工程師](https://www.104.com.tw/job/708g9?jobsource=jolist_a_date)                           | 9/30          |
+|  4 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=jolist_a_date)       | [數據⼯程師](https://www.104.com.tw/job/7275w?jobsource=jolist_a_date)                           | 9/30          |
+|  5 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_relevance)      | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_relevance) | 9/28          |
+|  6 | [香港商凱渤維思有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkgaj?jobsource=jolist_a_date) | [前端(全棧)開發人員 – JAVA](https://www.104.com.tw/job/6aiim?jobsource=jolist_a_date)               | 9/30          |
 
 ### Platform - 1111
 

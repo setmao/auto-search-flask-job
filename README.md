@@ -8,13 +8,9 @@
 ### Platform - 104
 
 
-|    | company                                                                                                       | job_title                                                                                                  | update_time   |
-|---:|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [Linker Networks Inc._美商寶蘊凌科網路科技有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjubn?jobsource=jolist_b_date) | [Video Streaming Backend Engineer 後端影像串流軟體研發工程師](https://www.104.com.tw/job/70zg7?jobsource=jolist_b_date) | 10/15         |
-|  2 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=jolist_b_date)                             | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=jolist_b_date)                        | 10/16         |
-|  3 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=jolist_b_date)                             | [全端工程師 Full-Stack Engineer](https://www.104.com.tw/job/71bmz?jobsource=jolist_b_date)                      | 10/16         |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)                             | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_d_relevance)                   | 10/13         |
-|  5 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=jolist_b_date)                  | [Backend Engineer 後端工程師](https://www.104.com.tw/job/6xipk?jobsource=jolist_b_date)                         | 10/15         |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance) | 10/13         |
 
 ### Platform - 1111
 

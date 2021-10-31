@@ -10,7 +10,7 @@
 
 |    | company                                                                           | job_title                                                                                         | update_time   |
 |---:|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)          | 10/27         |
+|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)          | 10/27         |
 |  2 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_b_date) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_b_date)      | 10/31         |
 |  3 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_b_date)   | [Senior/Junior Back-end Engineer 後端工程師](https://www.104.com.tw/job/7ecqo?jobsource=jolist_b_date) | 10/31         |
 |  4 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_b_date)   | [Senior/Junior AI Engineer AI工程師](https://www.104.com.tw/job/7ecqj?jobsource=jolist_b_date)       | 10/31         |

@@ -8,19 +8,17 @@
 ### Platform - 104
 
 
-|    | company                                                                                                       | job_title                                                                                                             | update_time   |
-|---:|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [Linker Networks Inc._美商寶蘊凌科網路科技有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjubn?jobsource=jolist_d_date) | [Video Streaming Backend Engineer 後端影像串流軟體研發工程師](https://www.104.com.tw/job/70zg7?jobsource=jolist_d_date)            | 12/06         |
-|  2 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=jolist_d_date)                             | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=jolist_d_date)                                               | 12/06         |
-|  3 | [天堂遊戲有限公司](https://www.104.com.tw/company/1a2x6bjprf?jobsource=jolist_d_date)                                 | [[RD] Video Streaming Backend Engineer](https://www.104.com.tw/job/7es28?jobsource=jolist_d_date)                     | 12/06         |
-|  4 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=jolist_d_date)                              | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=jolist_d_date)                                               | 12/06         |
-|  5 | [宏達電 HTC Corporation_宏達國際電子股份有限公司](https://www.104.com.tw/company/7co2xio?jobsource=jolist_d_date)            | [(Vive R&amp;D) Vive - Machine Learning Scientist - J01803](https://www.104.com.tw/job/7er6w?jobsource=jolist_d_date) | 12/06         |
-|  6 | [思納捷科技股份有限公司](https://www.104.com.tw/company/1a2x6bk977?jobsource=jolist_c_relevance)                         | [前端工程師(Python)](https://www.104.com.tw/job/7g8nn?jobsource=jolist_c_relevance)                                        | 12/06         |
-|  7 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance)                          | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                          | 12/06         |
-|  8 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_d_date)                               | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_d_date)                                               | 12/06         |
-|  9 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                             | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                              | 11/30         |
-| 10 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_d_date)                               | [Senior/Junior AI Engineer AI工程師](https://www.104.com.tw/job/7ecqj?jobsource=jolist_d_date)                           | 12/07         |
-| 11 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_d_date)                               | [Senior/Junior Back-end Engineer 後端工程師](https://www.104.com.tw/job/7ecqo?jobsource=jolist_d_date)                     | 12/07         |
+|    | company                                                                               | job_title                                                                                         | update_time   |
+|---:|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=jolist_c_date)     | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=jolist_c_date)                           | 12/06         |
+|  2 | [思納捷科技股份有限公司](https://www.104.com.tw/company/1a2x6bk977?jobsource=jolist_c_date)      | [前端工程師(Python)](https://www.104.com.tw/job/7g8nn?jobsource=jolist_c_date)                         | 12/06         |
+|  3 | [思納捷科技股份有限公司](https://www.104.com.tw/company/1a2x6bk977?jobsource=jolist_c_relevance) | [前端工程師(Python)](https://www.104.com.tw/job/7g8nn?jobsource=jolist_c_relevance)                    | 12/06         |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_date)       | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_date)                           | 12/06         |
+|  5 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance)  | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                      | 12/06         |
+|  6 | [物聯網股份有限公司](https://www.104.com.tw/company/1a2x6bk3uw?jobsource=jolist_c_date)        | [資深Python工程師-台北(DF2)](https://www.104.com.tw/job/7du8c?jobsource=jolist_c_date)                   | 12/06         |
+|  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)     | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)          | 11/30         |
+|  8 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_c_date)       | [Senior/Junior Back-end Engineer 後端工程師](https://www.104.com.tw/job/7ecqo?jobsource=jolist_c_date) | 12/07         |
+|  9 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_c_date)       | [Senior/Junior AI Engineer AI工程師](https://www.104.com.tw/job/7ecqj?jobsource=jolist_c_date)       | 12/07         |
 
 ### Platform - 1111
 

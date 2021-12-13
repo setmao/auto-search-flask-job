@@ -11,11 +11,10 @@
 |    | company                                                                              | job_title                                                                                                                | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_date)       | [網頁開發工程師](https://www.104.com.tw/job/78do7?jobsource=jolist_d_date)                                                      | 12/13         |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                                             | 12/13         |
-|  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 12/06         |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)                                 | 12/07         |
-|  5 | [金正禾數位有限公司](https://www.104.com.tw/company/1a2x6bl4su?jobsource=jolist_a_relevance)  | [Backend Engineer 後端工程師](https://www.104.com.tw/job/720ep?jobsource=jolist_a_relevance)                                  | 12/10         |
-|  6 | [銳熙科技有限公司](https://www.104.com.tw/company/1a2x6blu7t?jobsource=jolist_d_date)        | [前端工程師](https://www.104.com.tw/job/7gsq5?jobsource=jolist_d_date)                                                        | 12/13         |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                             | 12/13         |
+|  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 12/06         |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                                 | 12/07         |
+|  5 | [銳熙科技有限公司](https://www.104.com.tw/company/1a2x6blu7t?jobsource=jolist_d_date)        | [前端工程師](https://www.104.com.tw/job/7gsq5?jobsource=jolist_d_date)                                                        | 12/13         |
 
 ### Platform - 1111
 

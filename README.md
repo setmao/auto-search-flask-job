@@ -10,10 +10,11 @@
 
 |    | company                                                                                  | job_title                                                                                                                | update_time   |
 |---:|:-----------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance)     | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                             | 1/05          |
-|  2 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance)     | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 1/06          |
-|  3 | [漢康生技股份有限公司](https://www.104.com.tw/company/1a2x6blf97?jobsource=jolist_b_date)          | [細胞培養工藝開發研究員/副研究員/助理研究員](https://www.104.com.tw/job/7cccb?jobsource=jolist_b_date)                                       | 1/10          |
-|  4 | [薩摩亞商動見科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkwvs?jobsource=jolist_b_date) | [後端工程師 Backend engineer](https://www.104.com.tw/job/7ei4a?jobsource=jolist_b_date)                                       | 1/10          |
+|  1 | [友威資訊服務股份有限公司](https://www.104.com.tw/company/1a2x6blnx5?jobsource=jolist_c_date)        | [Python 智慧製造系統工程師【世界知名半導體代工廠】，工作穩定，薪資優渥](https://www.104.com.tw/job/7f138?jobsource=jolist_c_date)                       | 1/11          |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance)     | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_b_relevance)                                             | 1/05          |
+|  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_b_relevance)     | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_b_relevance) | 1/06          |
+|  4 | [漢康生技股份有限公司](https://www.104.com.tw/company/1a2x6blf97?jobsource=jolist_c_date)          | [細胞培養工藝開發研究員/副研究員/助理研究員](https://www.104.com.tw/job/7cccb?jobsource=jolist_c_date)                                       | 1/10          |
+|  5 | [薩摩亞商動見科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkwvs?jobsource=jolist_c_date) | [後端工程師 Backend engineer](https://www.104.com.tw/job/7ei4a?jobsource=jolist_c_date)                                       | 1/10          |
 
 ### Platform - 1111
 

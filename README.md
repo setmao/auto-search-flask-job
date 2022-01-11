@@ -10,20 +10,18 @@
 
 |    | company                                                                              | job_title                                                                                                                | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [九七科技股份有限公司](https://www.104.com.tw/company/1a2x6bl9vu?jobsource=jolist_d_date)      | [python data engineer (python 後端資料工程師) (台北AI部門)](https://www.104.com.tw/job/7fwwj?jobsource=jolist_d_date)               | 1/11          |
-|  2 | [九七科技股份有限公司](https://www.104.com.tw/company/1a2x6bl9vu?jobsource=jolist_d_date)      | [Junior and Senior Data scientist](https://www.104.com.tw/job/7fde6?jobsource=jolist_d_date)                             | 1/11          |
-|  3 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=jolist_d_date)    | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=jolist_d_date)                                                  | 1/11          |
-|  4 | [友威資訊服務股份有限公司](https://www.104.com.tw/company/1a2x6blnx5?jobsource=jolist_d_date)    | [Python 智慧製造系統工程師【世界知名半導體代工廠】，工作穩定，薪資優渥](https://www.104.com.tw/job/7f138?jobsource=jolist_d_date)                       | 1/11          |
-|  5 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=jolist_d_date)     | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=jolist_d_date)                                                  | 1/11          |
-|  6 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                                             | 1/05          |
-|  7 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 1/06          |
-|  8 | [澤喆數位科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2y0?jobsource=jolist_d_date)    | [後端工程師(Back-end Engineer )](https://www.104.com.tw/job/6uvmx?jobsource=jolist_d_date)                                    | 1/11          |
-|  9 | [物聯網股份有限公司](https://www.104.com.tw/company/1a2x6bk3uw?jobsource=jolist_d_date)       | [資深Python工程師-台北(DF2)](https://www.104.com.tw/job/7du8c?jobsource=jolist_d_date)                                          | 1/11          |
-| 10 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=jolist_d_date)      | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=jolist_d_date)                                      | 1/11          |
-| 11 | [紐奧谷科技股份有限公司](https://www.104.com.tw/company/1a2x6blk60?jobsource=jolist_d_date)     | [Developer 開發工程師 (Python)](https://www.104.com.tw/job/78o4v?jobsource=jolist_d_date)                                     | 1/12          |
-| 12 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=jolist_d_date)      | [數據⼯程師](https://www.104.com.tw/job/7275w?jobsource=jolist_d_date)                                                        | 1/11          |
-| 13 | [鉅芯科技有限公司](https://www.104.com.tw/company/1a2x6blgvc?jobsource=jolist_d_date)        | [全端工程師 Full Stack Enginner](https://www.104.com.tw/job/763yj?jobsource=jolist_d_date)                                    | 1/11          |
-| 14 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_d_date)      | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_d_date)                                                    | 1/11          |
+|  1 | [九七科技股份有限公司](https://www.104.com.tw/company/1a2x6bl9vu?jobsource=jolist_b_date)      | [Junior and Senior Data scientist](https://www.104.com.tw/job/7fde6?jobsource=jolist_b_date)                             | 1/11          |
+|  2 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=jolist_b_date)    | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=jolist_b_date)                                                  | 1/11          |
+|  3 | [友威資訊服務股份有限公司](https://www.104.com.tw/company/1a2x6blnx5?jobsource=jolist_b_date)    | [Python 智慧製造系統工程師【世界知名半導體代工廠】，工作穩定，薪資優渥](https://www.104.com.tw/job/7f138?jobsource=jolist_b_date)                       | 1/11          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                             | 1/05          |
+|  5 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 1/06          |
+|  6 | [物聯網股份有限公司](https://www.104.com.tw/company/1a2x6bk3uw?jobsource=jolist_b_date)       | [資深Python工程師-台北(DF2)](https://www.104.com.tw/job/7du8c?jobsource=jolist_b_date)                                          | 1/11          |
+|  7 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=jolist_b_date)      | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=jolist_b_date)                                      | 1/11          |
+|  8 | [紐奧谷科技股份有限公司](https://www.104.com.tw/company/1a2x6blk60?jobsource=jolist_b_date)     | [Developer 開發工程師 (Python)](https://www.104.com.tw/job/78o4v?jobsource=jolist_b_date)                                     | 1/12          |
+|  9 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=jolist_b_date)      | [數據⼯程師](https://www.104.com.tw/job/7275w?jobsource=jolist_b_date)                                                        | 1/11          |
+| 10 | [金正禾數位有限公司](https://www.104.com.tw/company/1a2x6bl4su?jobsource=jolist_b_date)       | [Backend Engineer 後端工程師](https://www.104.com.tw/job/720ep?jobsource=jolist_b_date)                                       | 1/11          |
+| 11 | [長川資訊股份有限公司](https://www.104.com.tw/company/1a2x6bi3xl?jobsource=jolist_b_date)      | [Python全端工程師](https://www.104.com.tw/job/7h9wo?jobsource=jolist_b_date)                                                  | 1/11          |
+| 12 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_b_date)      | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_b_date)                                                    | 1/11          |
 
 ### Platform - 1111
 

@@ -11,12 +11,12 @@
 |    | company                                                                                | job_title                                                                                                                | update_time   |
 |---:|:---------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_d_relevance)   | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_d_relevance)                                             | 1/19          |
-|  2 | [歐立威科技股份有限公司](https://www.104.com.tw/company/b8gl75c?jobsource=jolist_c_date)          | [軟體開發工程師](https://www.104.com.tw/job/6q2ao?jobsource=jolist_c_date)                                                      | 1/20          |
+|  2 | [歐立威科技股份有限公司](https://www.104.com.tw/company/b8gl75c?jobsource=jolist_b_date)          | [軟體開發工程師](https://www.104.com.tw/job/6q2ao?jobsource=jolist_b_date)                                                      | 1/20          |
 |  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_d_relevance)   | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_d_relevance) | 1/15          |
-|  4 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=jolist_c_date)          | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=jolist_c_date)                                                    | 1/20          |
-|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=jolist_c_date) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=jolist_c_date)                                                   | 1/20          |
-|  6 | [長川資訊股份有限公司](https://www.104.com.tw/company/1a2x6bi3xl?jobsource=jolist_c_date)        | [Python全端工程師](https://www.104.com.tw/job/7h9wo?jobsource=jolist_c_date)                                                  | 1/20          |
-|  7 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_c_date)           | [Python Back-End Developer 後端工程師](https://www.104.com.tw/job/73trn?jobsource=jolist_c_date)                              | 1/20          |
+|  4 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=jolist_b_date)          | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=jolist_b_date)                                                    | 1/20          |
+|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=jolist_b_date) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=jolist_b_date)                                                   | 1/20          |
+|  6 | [長川資訊股份有限公司](https://www.104.com.tw/company/1a2x6bi3xl?jobsource=jolist_b_date)        | [Python全端工程師](https://www.104.com.tw/job/7h9wo?jobsource=jolist_b_date)                                                  | 1/20          |
+|  7 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_b_date)           | [Python Back-End Developer 後端工程師](https://www.104.com.tw/job/73trn?jobsource=jolist_b_date)                              | 1/20          |
 
 ### Platform - 1111
 

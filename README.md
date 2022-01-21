@@ -13,10 +13,10 @@
 |  1 | [Deep Sentinel_亞齊國際有限公司](https://www.104.com.tw/company/1a2x6blbly?jobsource=jolist_c_date) | [Full Stack Engineer 全端工程師](https://www.104.com.tw/job/7e67z?jobsource=jolist_c_date)                                    | 1/21          |
 |  2 | [太奇雲端股份有限公司](https://www.104.com.tw/company/1a2x6bjj3y?jobsource=jolist_c_date)             | [前端工程師 (Front-end Developer)](https://www.104.com.tw/job/7fyy6?jobsource=jolist_c_date)                                  | 1/21          |
 |  3 | [好好證券股份有限公司](https://www.104.com.tw/company/1a2x6bjpjb?jobsource=jolist_c_date)             | [Backend Engineer(熟 Python、RESTful API )](https://www.104.com.tw/job/5572i?jobsource=jolist_c_date)                      | 1/21          |
-|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance)        | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                             | 1/19          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance)        | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_b_relevance)                                             | 1/19          |
 |  5 | [智勝科技股份有限公司](https://www.104.com.tw/company/10ukqxdc?jobsource=jolist_c_date)               | [211111 資訊工程師](https://www.104.com.tw/job/7gnhc?jobsource=jolist_c_date)                                                 | 1/21          |
-|  6 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance)        | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 1/15          |
-|  7 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_c_relevance)           | [Python Back-End Developer 後端工程師_Flask](https://www.104.com.tw/job/73trn?jobsource=jolist_c_relevance)                   | 1/20          |
+|  6 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_b_relevance)        | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_b_relevance) | 1/15          |
+|  7 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_b_relevance)           | [Python Back-End Developer 後端工程師_Flask](https://www.104.com.tw/job/73trn?jobsource=jolist_b_relevance)                   | 1/20          |
 |  8 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=jolist_c_date)         | [後端開發工程師 (Backend Engineer) - 小樹生活圈](https://www.104.com.tw/job/7f5jf?jobsource=jolist_c_date)                           | 1/21          |
 
 ### Platform - 1111
